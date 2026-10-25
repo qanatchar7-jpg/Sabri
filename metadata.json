@@ -1,0 +1,6 @@
+{
+  "name": "ScanFacture",
+  "description": "Application de facturation par code-barres pour scanner des articles, gérer les prix et calculer automatiquement les montants totaux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
